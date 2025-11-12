@@ -42,7 +42,7 @@ const Quiz = () => {
     },
   ];
 
-  const initialAnswers = [null, null, null, null,null,null];
+  const initialAnswers = [null, null, null, null, null, null];
 
   const [userAnswers, setUserAnswers] = useState(initialAnswers);
 

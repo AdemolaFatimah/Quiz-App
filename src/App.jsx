@@ -1,16 +1,12 @@
-import './App.css'
-import Quiz from './Components/Quiz'
-import Results from './Components/Results'
-
+import "./App.css";
+import Quiz from "./components/Quiz";
 
 function App() {
-
   return (
     <>
-      <Quiz/>
-    
+      <Quiz />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

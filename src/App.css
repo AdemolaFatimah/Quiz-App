@@ -69,6 +69,7 @@ h2 {
   background-color: #a0c4e3;
   cursor: not-allowed;
 }
+/* Result styling */
 .restart-button {
   display: block;
   margin: 20px auto;
