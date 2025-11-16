@@ -91,6 +91,12 @@ h2 {
   margin: 20px 0;
 }
 /* Result styling */
-.result-container h2{
-margin-top: 40px;
+.result-container h2 {
+  margin-top: 40px;
+}
+
+@media (max-width: 600px) {
+  .app-container {
+    max-width: 330px;
+  }
 }
